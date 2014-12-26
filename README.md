@@ -2,4 +2,4 @@ demogit
 =======
 
 Une demo de git
-Modification depuis GitHUb
+Test conflit local -> github
