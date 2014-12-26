@@ -1,0 +1,5 @@
+/**
+*
+* Fichier javascript principal
+*
+**/
