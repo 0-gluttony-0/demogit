@@ -1,1 +1,5 @@
-alert("hello");
+/**
+*
+* Fichier javascript principal
+*
+**/
